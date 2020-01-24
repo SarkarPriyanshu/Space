@@ -1,0 +1,24 @@
+{
+  "name": "Space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarkarPriyanshu/Space.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https//SarkarPriyanshu.github.io/Space",
+  "bugs": {
+    "url": "https://github.com/SarkarPriyanshu/Space/issues"
+  },
+  "homepage": "https://github.com/SarkarPriyanshu/Space#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
